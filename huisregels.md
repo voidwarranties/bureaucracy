@@ -14,8 +14,7 @@ huisregels
 * Spullen die niet op een ledenschap liggen dienen voorzien te zijn van een sticker waar de eigenaar op staat. Rondslingerende zaken zonder sticker worden gezien als eigendom van de space.
 * Eigendommen van anderen gebruik je niet, behalve als dit expliciet toegelaten is door de sticker of het lid.
 * Eigendommen van de space, blijven in de space.
-*  Computerapparatuur van de space wordt bij voorkeur voorzien van vrije  software. Indien niet-vrije software wordt gebruikt dient hiervoor een  geldige licentie te zijn.
-* Er mag alleen rechtenvrije muziek in de space worden gedraaid.
+* Computerapparatuur van de space wordt bij voorkeur voorzien van vrije  software. Indien niet-vrije software wordt gebruikt dient hiervoor een  geldige licentie te zijn.
 * In de space wordt er geen illegale drugs gebruikt.
 * In de space wordt er niet gerookt.
 * Het is niet toegelaten te overnachten in de space.
