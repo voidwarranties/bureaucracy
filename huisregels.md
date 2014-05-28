@@ -11,7 +11,7 @@ huisregels
 * Het is verboden om op het terrein of voor de toegangspoorten te parkeren. Het is toegelaten om het terrein met de wagen te betreden om te laden en lossen. 
 * Beschadig niets op het terrein buiten de space en veroorzaak geen (geluids)overlast.
 * Ruim op zodra je met een project klaar bent of de space verlaat: berg je project op op je schap, leg de gebruikte gereedschappen terug op hun plaats en doe het afval op de hiervoor bestemde plaats.
-* Spullen die niet op een ledenschap liggen dienen voorzien te zijn van een sticker waar de eigenaar op staat. Rondslingerende zaken zonder sticker worden gezien als eigendom van de space.
+* Spullen die niet in een ledenbak zitten dienen voorzien te zijn van een sticker waar de eigenaar op staat. Rondslingerende zaken zonder sticker worden gezien als eigendom van de space.
 * Eigendommen van anderen gebruik je niet, behalve als dit expliciet toegelaten is door de sticker of het lid.
 * Eigendommen van de space, blijven in de space.
 * Computerapparatuur van de space wordt bij voorkeur voorzien van vrije  software. Indien niet-vrije software wordt gebruikt dient hiervoor een  geldige licentie te zijn.
