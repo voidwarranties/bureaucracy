@@ -1,0 +1,45 @@
+Pricelist
+=========
+
+featured
+--------
+
++---------------------------+
+| Club mate        | € 1.50 |
+| Flora power      | € 1.50 |
+| Rabarber schorle | € 1.50 |
++---------------------------+
+
+non-alcoholic
+-------------
+
++--------------------------+
+| Ice tea         | € 1.20 |
+| Coca cola       | € 1.00 |
+| Coca cola light | € 1.00 |
+| Coca cola zero  | € 1.00 |
+| Fanta           | € 1.00 |
+| Sprite          | € 1.00 |
+| Gini            | € 1.20 |
+| Still water     | € 1.00 |
+| Sparkling water | € 1.00 |
+| Orange juice    | € 1.20 |
+| Apple juice     | € 1.20 |
++--------------------------+
+
+alcoholic
+---------
+
++----------------------------+
+| De Koninck        | € 1.30 |
+| Duvel             | € 2.20 |
+| Jupiler           | € 1.20 |
+| Kriek Lindemans   | € 1.50 |
+| Leffe blond       | € 2.00 |
+| Leffe bruin       | € 2.00 |
+| Palm              | € 1.30 |
+| Westmalle dubbel  | € 2.00 |
+| Westmalle trippel | € 2.20 |
+| White wine        | € 1.20 |
+| Red wine          | € 1.20 |
++----------------------------+
