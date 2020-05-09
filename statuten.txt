@@ -1,12 +1,10 @@
 STATUTEN VZW VOIDWARRANTIES
 
-TITEL I. - Benaming, Zetel, Duur
+TITEL I. - Benaming, Duur
 
 Art 1. De vereniging zonder winstoogmerk draagt de naam "VoidWarranties".
 
-Art 2. De vereniging heeft haar zetel te 2100 Deurne (Antwerpen), Ter Rivierenlaan 62 / 26; gelegen in het gerechtelijk arrondissement Antwerpen.
-
-Art 3. De vereniging wordt opgericht voor onbepaalde duur en is ideologisch, filosofisch en politiek ongebonden.
+Art 3. De vereniging wordt opgericht voor onbepaalde duur en is politiek ongebonden.
 
 TITEL II. - Doelstellingen
 
@@ -23,6 +21,7 @@ Art 7. De vereniging telt enkel werkende leden. Werkende leden hebben stemrecht.
 Art 8. De vereniging telt minstens 4 leden.
 
 Art 9. Leden kunnen op elke moment toetreden mits schriftelijke kennisgeving aan de raad van bestuur, onderschrijven van de statuten, en na goedkeuring van de raad van bestuur.
+Art 9. Lidmaatschap kan op elk moment schriftelijk aangevraagd worden aan de raad van bestuur. In deze aanvraag moet staan dat men kennis heeft van de statuten en, indien in voege, de huisregels. Het lidmaatschap gaat in na goedkeuring van het bestuur. Indien het lid minderjarig is dient de aanvraag ook ondertekend te worden door een ouder of voogd.
 
 Art 10. Alle leden dienen lidgeld te betalen. De raad van bestuur bepaalt het lidgeld voor de leden. Dit kan maximaal EUR 500 per maand bedragen. De raad van bestuur kan in uitzonderlijke gevallen bepaalde leden van deze verplichting ontheven.
 
@@ -56,6 +55,16 @@ Voor bovenstaande punten is een meerderheid van twee derden vereist.
 a) het wijzigen van de doelstellingen
 b) het ontbinden van de v.z.w.
 Voor bovenstaande punten is een meerderheid van vier vijfden vereist.
+
+Art 20 bis. Een meerderheid van twee derden is vereist voor:
+a) het wijzigen van de statuten
+b) het afzettet van de bestuurders
+c) het uitsluiten van een lid
+d) het omzetten van de v.z.w in een V.S.O.
+
+Art 20 ter. Een meerderheuid van vier vijfden is vereist voor:
+a) het wijzigen van de doelstellingen
+b) het ontbinden van de v.z.w.
 
 Art 21. Over een statutenwijziging kan de algemene vergadering alleen op uitdrukkelijke wijze beraadslagen en besluiten indien de wijzigingen uitdrukkelijk zijn vermeld in de oproeping.
 
