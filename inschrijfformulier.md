@@ -1,16 +1,14 @@
-> .-------------------------------------.
-> |               Plak de               |              Voidwarranties VZW
-> |            voidwarranties           |             Hackerspace Antwerpen
-> |             sticker hier            |              Saturnusstraat 29
-> '-------------------------------------'                2600 Antwerpen
-
+<img src="https://user-images.githubusercontent.com/3314026/135162870-d252713e-00ca-4fdb-ad9d-b74d29b36c53.gif" alt="logo" width="500"/> | Voidwarranties VZW, Hackerspace Antwerpen Saturnusstraat 29, 2600 Antwerpen
+------------ | -------------
 # Aanmeldingsformulier voor lidmaatschap
-
 ## De voorwaarden:
 - Invullen van onderstaande persoonlijke gegevens
 - 2 sponsors zoeken die reeds lid zijn en dit formulier laten tekenen voor akkoord
-- Maandelijkse bijdrage betalen
-- 1 maand wachttijd (inclusief betaling lidmaatschapsbijdrage)
+- Maandelijkse bijdrage betalen, liefst via automatische overschrijving (periodiek: 1, 6, 12)
+- Betalingen op het hieronder vermelde bankrekeningnummer met vermelding 'Lidmaatschap'.
+- Je bent pas volledig lid na:
+  - geldige invulling van dit formulier 
+  - en na 1 maand wachttijd na betaling van de eerste lidmaatschapsbijdrage
 
 ## Persoonsgegevens:
 
@@ -37,10 +35,9 @@ Geboortedatum/jaar:
 
 - Naam sponsor 2:
 
-
-Lidgelden zijn te betalen bij aanvang van de respectivelijke maand van het lidmaatschap.
-Verbruiksgoederen komen ter beschikking op het moment van ontvangst van de betaling.
-Betalingen dienen te gebeuren op het hieronder vermelde bankrekeningnummer met vermelding 'Lidmaatschap'.
-
-Ondernemingsnummer: 834.274.254
-Bankrekeningnummer: 
+## 
+Bureaucracy | Numbers
+------------ | -------------
+Ondernemingsnummer | 834.274.254
+Bankrekeningnummer | BE30 3770 8459 1111
+Vrijstelling van BTW | Kleine onderneming (artikel 56, §2 WBTW)
