@@ -3,12 +3,12 @@
 # Aanmeldingsformulier voor lidmaatschap
 ## De voorwaarden:
 - Invullen van onderstaande persoonlijke gegevens
+- Kennis nemen van de statuten van de VZW
 - 2 sponsors zoeken die reeds lid zijn en dit formulier laten tekenen voor akkoord
-- Maandelijkse bijdrage betalen, liefst via automatische overschrijving (periodiek: 1, 6, 12)
-- Betalingen op het hieronder vermelde bankrekeningnummer met vermelding 'Lidmaatschap'.
+- Maandelijkse bijdrage betalen op het hieronder vermelde bankrekeningnummer met vermelding van 'Lidmaatschap' en liefst via automatische overschrijving (periodiek: 1, 6, 12)
 - Je bent pas volledig lid na:
   - geldige invulling van dit formulier 
-  - en na 1 maand wachttijd na betaling van de eerste lidmaatschapsbijdrage
+  - na 1 maand wachttijd na betaling van de eerste lidmaatschapsbijdrage
 
 ## Persoonsgegevens:
 
