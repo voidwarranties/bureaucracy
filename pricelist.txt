@@ -5,9 +5,9 @@ featured
 --------
 
 +---------------------------+
-| Club mate        | € 1.50 |
-| Flora power      | € 1.50 |
-| Rabarber schorle | € 1.50 |
+| Club mate        | € 2.50 |
+| Almdudler        | € 1.50 |
+| Titsenbier       | € 7.50 |
 +---------------------------+
 
 non-alcoholic
@@ -31,15 +31,14 @@ alcoholic
 ---------
 
 +----------------------------+
-| De Koninck        | € 1.30 |
-| Duvel             | € 2.20 |
-| Jupiler           | € 1.20 |
+| De Koninck        | € 2,50 |
+| Duvel             | € 2.50 |
+| Jupiler           | € 1.50 |
 | Kriek Lindemans   | € 1.50 |
-| Leffe blond       | € 2.00 |
-| Leffe bruin       | € 2.00 |
-| Palm              | € 1.30 |
-| Westmalle dubbel  | € 2.00 |
-| Westmalle trippel | € 2.20 |
-| White wine        | € 1.20 |
-| Red wine          | € 1.20 |
+| Leffe blond       | € 2.50 |
+| Leffe bruin       | € 2.50 |
+| Westmalle dubbel  | € 2.50 |
+| Westmalle trippel | € 2.50 |
+| White wine        | € 1.50 |
+| Red wine          | € 1.50 |
 +----------------------------+
