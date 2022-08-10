@@ -43,5 +43,5 @@ Datum | Handtekening
 Bureaucracy | Numbers
 ------------ | -------------
 Ondernemingsnummer | 834.274.254
-Bankrekeningnummer | BE30 3770 8459 1111
+Bankrekeningnummer | BE79 8918 7416 6333
 Vrijstelling van BTW | Kleine onderneming (artikel 56, §2 WBTW)
