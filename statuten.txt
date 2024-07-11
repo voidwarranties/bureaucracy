@@ -15,7 +15,7 @@ Art 4. De vereniging heeft als doel een creatief forum uit te bouwen voor ideeë
 * zich interdisciplinair op te stellen en samen te werken met andere individuen en verenigingen, in lokale, nationale en internationale context; 
 * de door de leden van de vereniging opgebouwde kennis in deze materie te delen aan alle geïnteresseerden door middel van demonstraties en lezingen, in die zin dient de vzw ook een educatief doel.
 
-Art 5. De vereniging kan ter uitvoering van haar maatschappelijk doel ondermeer alle eigendommen of zakelijke rechten verwerven, in huur nemen, verhuren, rechtsgeldige overeenkomsten afsluiten, fondsen inzamelen, kortom alle activiteiten uitoefenen of laten uitoefenen die haar doel.
+Art 5. De vereniging kan ter uitvoering van haar maatschappelijk doel ondermeer alle eigendommen of zakelijke rechten verwerven, in huur nemen, verhuren, rechtsgeldige overeenkomsten afsluiten, fondsen inzamelen, kortom alle activiteiten uitoefenen of laten uitoefenen die haar doel rechtvaardigen.
 
 Art 6. In het kader van het realiseren van het maatschappelijk doel kan de vereniging ook daden van koophandel stellen, bijkomstig en ondergeschikt aan het hoofddoel van de vereniging. Het is evenwel niet toegestaan vermogensvoordelen aan bestuurders, leden en andere personen uit te keren.
 
@@ -56,7 +56,7 @@ Art 17. De algemene vergadering vergadert slechts geldig als ten minste de helft
 
 Art 18. Als de algemene vergadering niet in quorum is, kan de volgende algemene vergadering die eveneens niet in quorum is, geldig vergaderen met dezelfde agenda. De tweede vergadering mag niet binnen vijftien dagen volgend op de eerste vergadering worden gehouden. Een wijziging is alleen aangenomen, wanneer zij twee derde van de uitgebrachte stemmen heeft verkregen waarbij onthoudingen noch in de telle noch in de noemer worden meegerekend.
 
-Art 19. De vergadering wordt voorgezeten door iemand aangeduid door het bestuursorgaan, of door de oudste van de aanwezige leden.
+Art 19. De algemene vergadering wordt voorgezeten door één van de aanwezige leden die bij de aanvang wordt gekozen via stemming.
 
 Art 20. De besluiten van de algemene vergadering worden genomen bij gewone meerderheid van de stemmen van de aanwezige of vertegenwoordigde leden, met uitsluiting van de afwezigen, van de nietige stemmen en van de onthoudingen. 
 
@@ -74,11 +74,13 @@ Art 21. Over een statutenwijziging kan de algemene vergadering alleen op uitdruk
 
 Art 22. De agenda wordt vastgesteld door het bestuursorgaan. Elk lid kan punten toevoegen aan de agenda door deze bekend te maken aan het bestuursorgaan voor de oproeping verzonden wordt. Agendapunten die later ingediend worden, moeten goedgekeurd worden door de algemene vergadering bij het begin van de vergadering.
 
+Art 22 bis. De algemene vergadering en de daarop genomen beslissingen worden slechts als geldig beschouwd indien de volledige agenda werd behandeld. Indien de agenda niet volledig kan afgewerkt worden moet de algemene vergadering worden verdergezet binnen de 15 dagen en met inachtneming van dezelfde regels qua quora.
+
 Art 23. Van de beslissingen van de algemene vergadering worden notulen gemaakt die aan alle leden worden toegezonden.
 
 TITEL V. - HET BESTUURSORGAAN
 
-Art 24. De vereniging wordt bestuurd door het bestuursorgaan. Hij bestaat uit minimaal 3 leden. De leden van het bestuursorgaan worden benoemd op de Algemene Vergadering voor onbepaalde duur.
+Art 24. De vereniging wordt bestuurd door een bestuursorgaan samengesteld uit minimaal 3 leden. De leden van het bestuursorgaan worden individueel verkozen door de Algemene Vergadering voor een termijn van 1 jaar. Bestuursleden kunnen zichzelf onbeperkt opvolgen. De verkiezing van bestuursleden gebeurt anoniem.
 
 Art 25. In het bestuursorgaan hebben alle leden gelijk stemrecht. De beslissingen worden genomen bij gewone meerderheid. Bij een gelijk aantal stemmen is de stem van het oudste aanwezige lid doorslaggevend.
 
