@@ -19,6 +19,7 @@ huisregels
 * In de space wordt er niet gerookt.
 * Het is niet toegelaten te overnachten in de space.
 * Toon respect tegenover anderen in de space.
+* Niet-leden mogen bij het verlaten van de space geen negatief barsaldo hebben.
 
 Handhaving van deze huisregels 
 ------------------------------
