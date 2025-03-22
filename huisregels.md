@@ -19,6 +19,10 @@ huisregels
 * In de space wordt er niet gerookt.
 * Het is niet toegelaten te overnachten in de space.
 * Toon respect tegenover anderen in de space.
+* Aankoopbeleid indien iemand iets wilt aankopen voor de space:
+  * eerst wordt dit besproken in #interne-keuken kanaal op Discord
+  * er mag niemand iets op tegen hebben en er moet minstens 1 bestuurder expliciet akkoord gaan
+  * persoon koopt het item zelf, geeft het aankoopbewijs aan een bestuurder en krijgt dan het geld terug
 
 Handhaving van deze huisregels 
 ------------------------------
