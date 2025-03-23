@@ -20,6 +20,10 @@ huisregels
 * Het is niet toegelaten te overnachten in de space.
 * Toon respect tegenover anderen in de space.
 * Niet-leden mogen bij het verlaten van de space geen negatief barsaldo hebben.
+* Aankoopbeleid indien iemand iets wilt aankopen voor de space:
+  * eerst wordt dit besproken in #interne-keuken kanaal op Discord
+  * er mag geen bezwaar zijn tegen de aankoop en er moet minstens 1 bestuurder expliciet akkoord gaan
+  * persoon koopt het item zelf, geeft het aankoopbewijs aan een bestuurder en krijgt dan het geld terug
 
 Handhaving van deze huisregels 
 ------------------------------
