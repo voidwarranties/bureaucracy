@@ -19,6 +19,7 @@ huisregels
 * In de space wordt er niet gerookt.
 * Het is niet toegelaten te overnachten in de space.
 * Toon respect tegenover anderen in de space.
+* Niet-leden mogen bij het verlaten van de space geen negatief barsaldo hebben.
 * Aankoopbeleid indien iemand iets wilt aankopen voor de space:
   * eerst wordt dit besproken in #interne-keuken kanaal op Discord
   * er mag niemand iets op tegen hebben en er moet minstens 1 bestuurder expliciet akkoord gaan
